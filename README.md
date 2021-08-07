@@ -4,7 +4,7 @@
 - [MOD Thông Báo Discord](https://steamcommunity.com/sharedfiles/filedetails/?id=2537774396)
 
 ## 1. Tạo BOT Discord
-- Truy cập [Tại Đây](https://discord.com/developers/applications) để tạo BOT
+- Truy cập [vào đây](https://discord.com/developers/applications) để tạo BOT
 - Chọn `New Application` -> Điền Tên BOT -> `Create`
 - Vào phần `Bot` -> `Add Bot` -> `Yes, do it!`
 - Lưu lại token của BOT![image](https://user-images.githubusercontent.com/57210639/128592478-a39cce56-44d9-436a-8f44-5c8077a40c06.png)
@@ -14,7 +14,7 @@
 
 
 ## 2. Cài đặt Node.js và BOT
-- Tải Node.js [Tại đây](https://nodejs.org/en/)![image](https://user-images.githubusercontent.com/57210639/128591515-8e1cbc5b-2ac5-405b-925e-c93ca7d8f308.png)
+- Tải Node.js [tại đây](https://nodejs.org/en/)![image](https://user-images.githubusercontent.com/57210639/128591515-8e1cbc5b-2ac5-405b-925e-c93ca7d8f308.png)
 - Cài đặt và Next theo mặc định
 - Tạo 1 thư mục bất kì, ở đây mình lấy tên là `BOT Discord`
 - Trên thanh địa chỉ của thư mục `BOT Discord`, gõ `cmd` và **Enter** hộp thoại cmd sẽ xuất hiện![image](https://user-images.githubusercontent.com/57210639/128591687-66ba0f58-0ee5-4fdc-af0c-2e6d47035102.png)![image](https://user-images.githubusercontent.com/57210639/128591731-5629d2f2-8eaf-4a38-ac23-58349e934ce0.png)
@@ -63,3 +63,6 @@
    - Phải bật BOT trước khi bật host 
    - Phải dùng lệnh `!link` khi BOT mới được khởi động 
    - Chỉ có người dùng được điền tại `Your-User-ID` mới có thể sự dụng được các lệnh của BOT, ngoại trừ lệnh chat vào game `,` được sử dụng bởi tất cả mọi người! 
+3. Các lệnh BOT hỗ trợ khi dùng lệnh `!help`
+   ![command](https://user-images.githubusercontent.com/57210639/128593662-644b1680-b5e8-4020-9d51-ddc509a7bc62.png)
+
