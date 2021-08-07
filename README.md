@@ -61,7 +61,7 @@
 ## 4. Chạy BOT
 1. Cách 1: Chạy bằng CMD
    - Nhập `cmd` vào thanh địa chỉ của thư mục `BOT Discord`
-   - Chạy lệnh sau để chạy BOT
+   - Chạy lệnh sau để run BOT
      ```
      node bot.js
      ```
