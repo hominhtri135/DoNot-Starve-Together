@@ -44,14 +44,12 @@
       ```
    ![image](https://user-images.githubusercontent.com/57210639/128593100-38da5a0e-7785-4d20-88ef-cc074f4ce1cc.png)
 2. Thay đổi `Your-User-ID` bằng ID Discord của bạn ([cách lấy User ID Discord](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)) ![image](https://user-images.githubusercontent.com/57210639/128592990-99f3f572-6068-43c2-9fea-556743656aff.png)
-
-     Để thêm nhiều Admin hơn, ví dụ có 3 Admin ta sửa như sau:
-     
-     Sửa 
+   - Để thêm nhiều Admin hơn, ví dụ có 3 Admin ta sửa như sau:
+     - Sửa 
      ```
      message.author.id == "Your-User-ID"
      ```
-     Thành
+     - Thành
      ```
      message.author.id == "UserID_1" || message.author.id == "UserID_2" || message.author.id == "UserID_3"
      ```
