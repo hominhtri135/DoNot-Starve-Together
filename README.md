@@ -64,5 +64,5 @@
    - Phải dùng lệnh `!link` khi BOT mới được khởi động 
    - Chỉ có người dùng được điền tại `Your-User-ID` mới có thể sự dụng được các lệnh của BOT, ngoại trừ lệnh chat vào game `,` được sử dụng bởi tất cả mọi người! 
 3. Các lệnh BOT hỗ trợ khi dùng lệnh `!help`
-   ![command](https://user-images.githubusercontent.com/57210639/128593662-644b1680-b5e8-4020-9d51-ddc509a7bc62.png)
+![command](https://user-images.githubusercontent.com/57210639/128593662-644b1680-b5e8-4020-9d51-ddc509a7bc62.png)
 
