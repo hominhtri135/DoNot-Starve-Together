@@ -44,4 +44,4 @@
       ```
    ![image](https://user-images.githubusercontent.com/57210639/128593100-38da5a0e-7785-4d20-88ef-cc074f4ce1cc.png)
 2. Thay đổi `Your-User-ID` bằng ID Discord của bạn [cách lấy User ID Discord](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/) ![image](https://user-images.githubusercontent.com/57210639/128592990-99f3f572-6068-43c2-9fea-556743656aff.png)
-3. Thay đổi `Your-Token` bằng token BOT đã lấy ở Bước 1 ![image](https://user-images.githubusercontent.com/57210639/128593146-57536273-4056-421b-bf0b-be6031a96a1b.png)
+3. Thay đổi `Your-Token` bằng token BOT đã lấy ở [Bước 1](#1-tạo-bot-discord) ![image](https://user-images.githubusercontent.com/57210639/128593146-57536273-4056-421b-bf0b-be6031a96a1b.png)
