@@ -79,7 +79,7 @@
 
 ![command](https://user-images.githubusercontent.com/57210639/128593662-644b1680-b5e8-4020-9d51-ddc509a7bc62.png)
 
-## Mẹo
+## Mẹo 💡
 - Để có thể Rollback được nhiều hơn 5 lần (Phải đánh đổi nhiều dung lượng lưu trữ hơn) ta làm như sau:
   - Mở file `cluster.ini` trong như mục cluster_* (thư mục world của bạn)
   - Tại `[MISC]` thêm `max_snapshots = 100`, nó sẽ trông như thế này: 
