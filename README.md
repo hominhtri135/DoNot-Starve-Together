@@ -62,7 +62,8 @@
 2. Lưu Ý:
    - Phải bật BOT trước khi bật host 
    - Phải dùng lệnh `!link` khi BOT mới được khởi động 
-   - Chỉ có người dùng được điền tại `Your-User-ID` mới có thể sự dụng được các lệnh của BOT, ngoại trừ lệnh chat vào game `,` được sử dụng bởi tất cả mọi người! 
+   - Chỉ có người dùng được điền tại `Your-User-ID` mới có thể sự dụng được các lệnh của BOT, ngoại trừ lệnh chat vào game `,` được sử dụng bởi tất cả mọi người!
+   - Nếu BOT đang hoạt động và đã dùng lệnh `!link` mà BOT không chat gì. Vui lòng kiểm tra lại đường dẫn của game đã đúng chưa!
 3. Các lệnh BOT hỗ trợ khi dùng lệnh `!help`
 
 ![command](https://user-images.githubusercontent.com/57210639/128593662-644b1680-b5e8-4020-9d51-ddc509a7bc62.png)
