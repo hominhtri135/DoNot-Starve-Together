@@ -84,6 +84,6 @@
 ## Mẹo
 - Để có thể Rollback được nhiều hơn 5 lần (Phải đánh đổi nhiều dung lượng lưu trữ hơn) ta làm như sau:
   - Mở file `cluster.ini` trong như mục cluster_* (thư mục world của bạn)
-  - Tại `[MISC]` thêm `max_snapshots = 100`, nó sẽ nhưu thế này: 
+  - Tại `[MISC]` thêm `max_snapshots = 100`, nó sẽ trông như thế này: 
   ![image](https://user-images.githubusercontent.com/57210639/128594633-bdc131a5-c1ef-4c0f-86c1-07bc379860a3.png)
-  - Điều này sẽ tạo tối đa 100 bản lưu thay vì 5 bản lưu như mắc định, con số này bạn có thể tuỳ chỉnh theo nhu cầu của bạn!
+  - Điều này sẽ tạo tối đa 100 bản lưu thay vì 5 bản lưu như mặc định, con số này bạn có thể tuỳ chỉnh theo nhu cầu của bạn!
