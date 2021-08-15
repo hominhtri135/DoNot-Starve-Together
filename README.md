@@ -14,7 +14,7 @@
 
 
 ## 2. Cài đặt Node.js và BOT
-- Tải Node.js [tại đây](https://nodejs.org/en/)![image](https://user-images.githubusercontent.com/57210639/129482880-a6a74a25-9ca4-47a0-8a05-af9d73d8273a.png)
+- Tải Node.js [tại đây](https://nodejs.org/en/)![image](https://user-images.githubusercontent.com/57210639/129483862-ed6be962-367e-4c4d-a1c4-97bc8aaabfaa.png)
 - Cài đặt và Next theo mặc định
 - Tạo 1 thư mục bất kì, ở đây mình lấy tên là `BOT Discord`
 - Trên thanh địa chỉ của thư mục `BOT Discord`, gõ `cmd` và **Enter** hộp thoại cmd sẽ xuất hiện![image](https://user-images.githubusercontent.com/57210639/128591687-66ba0f58-0ee5-4fdc-af0c-2e6d47035102.png)![image](https://user-images.githubusercontent.com/57210639/128591731-5629d2f2-8eaf-4a38-ac23-58349e934ce0.png)
