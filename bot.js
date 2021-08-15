@@ -1,7 +1,5 @@
-//bot đang chạy trên discord.js v13, node.js v16.6.2
-
-const { Client, Intents, MessageEmbed } = require('discord.js');
-const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
+const { Client, MessageEmbed } = require('discord.js');
+const client = new Client();
 
 let fs = require('fs');
 let moment = require('moment');
