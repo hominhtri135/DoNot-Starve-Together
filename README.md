@@ -29,7 +29,7 @@
   ```
   npm install moment
   ```
-- Tải file [bot.js](https://downgit.github.io/#/home?url=https://github.com/hominhtri135/DoNot-Starve-Together/blob/main/bot.js) và cho vào thư mục `BOT Discord`
+- Tải file [bot.js](bot.js) và cho vào thư mục `BOT Discord` ([Cách tải file Github]())
 - Sau khi cài đặt xong và copy file [bot.js](bot.js) sẽ được các mục sau: ![image](https://user-images.githubusercontent.com/57210639/128592187-aa41c923-115c-41d9-81e2-5ad5a1ff3b91.png)
 ## 3. Chỉnh sửa file `bot.js` bằng [NotePad++](https://notepad-plus-plus.org/downloads/v7.0/)
 1. Thay đổi đường dẫn của thư mục game trên máy của bạn, mặc định là:
@@ -79,6 +79,9 @@
 3. Các lệnh BOT hỗ trợ khi dùng lệnh `!help`
 
 ![command](https://user-images.githubusercontent.com/57210639/128593662-644b1680-b5e8-4020-9d51-ddc509a7bc62.png)
+
+## 📂Cách tải file Github
+   Chuột phải vào chữ Raw -> Lưu trang web thành -> Chọn nơi lưu -> Save 
 
 ## 💡Mẹo 
 - Để có thể Rollback được nhiều hơn 5 lần (Phải đánh đổi nhiều dung lượng lưu trữ hơn) ta làm như sau:
