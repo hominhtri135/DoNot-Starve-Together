@@ -3,13 +3,14 @@
 - [Cách tạo Server Dedicated bằng Script đơn giản](https://dont-starve-game.fandom.com/vi/wiki/Dedicated_server)
 - [MOD Thông Báo Discord](https://steamcommunity.com/sharedfiles/filedetails/?id=2537774396)
 
-1. [Tạo BOT Discord](1-tạo-bot-discord)
-2. [Cài đặt Node.js và BOT](2-cài-đặt-nodejs-và-bot)
-3. [Chỉnh sửa file `bot.js`](3-chỉnh-sửa-file-botjs-bằng-notepad)
-4. [Chạy BOT](4-chạy-bot)
-5. [Cách sử dụng và Lưu Ý](5-cách-sử-dụng-và-lưu-ý)
-📂 [Cách tải file Github](cách-tải-file-github)
-💡 [Mẹo](mẹo)
+1. [Tạo BOT Discord](#1-tạo-bot-discord)
+2. [Cài đặt Node.js và BOT](#2-cài-đặt-nodejs-và-bot)
+3. [Chỉnh sửa file `bot.js`](#3-chỉnh-sửa-file-botjs-bằng-notepad)
+4. [Chạy BOT](#4-chạy-bot)
+5. [Cách sử dụng và Lưu Ý](#5-cách-sử-dụng-và-lưu-ý)
+
+📂 [Cách tải file Github](#cách-tải-file-github)
+💡 [Mẹo](#mẹo)
 
 ## 1. Tạo BOT Discord
 - Truy cập [vào đây](https://discord.com/developers/applications) để tạo BOT
