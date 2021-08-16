@@ -10,6 +10,7 @@
 5. [Cách sử dụng và Lưu Ý](#5-cách-sử-dụng-và-lưu-ý)
 
 📂 [Cách tải file Github](#cách-tải-file-github)
+
 💡 [Mẹo](#mẹo)
 
 ## 1. Tạo BOT Discord
