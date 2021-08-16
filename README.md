@@ -3,6 +3,14 @@
 - [Cách tạo Server Dedicated bằng Script đơn giản](https://dont-starve-game.fandom.com/vi/wiki/Dedicated_server)
 - [MOD Thông Báo Discord](https://steamcommunity.com/sharedfiles/filedetails/?id=2537774396)
 
+1. [Tạo BOT Discord](1-tạo-bot-discord)
+2. [Cài đặt Node.js và BOT](2-cài-đặt-nodejs-và-bot)
+3. [Chỉnh sửa file `bot.js`](3-chỉnh-sửa-file-botjs-bằng-notepad)
+4. [Chạy BOT](4-chạy-bot)
+5. [Cách sử dụng và Lưu Ý](5-cách-sử-dụng-và-lưu-ý)
+📂 [Cách tải file Github](cách-tải-file-github)
+💡 [Mẹo](mẹo)
+
 ## 1. Tạo BOT Discord
 - Truy cập [vào đây](https://discord.com/developers/applications) để tạo BOT
 - Chọn `New Application` -> Điền Tên BOT -> `Create`
@@ -29,7 +37,7 @@
   ```
   npm install moment
   ```
-- Tải file [bot.js](bot.js) và cho vào thư mục `BOT Discord` ([Cách tải file Github]())
+- Tải file [bot.js](bot.js) và cho vào thư mục `BOT Discord` ([Cách tải file Github](#cách-tải-file-github))
 - Sau khi cài đặt xong và copy file [bot.js](bot.js) sẽ được các mục sau: ![image](https://user-images.githubusercontent.com/57210639/128592187-aa41c923-115c-41d9-81e2-5ad5a1ff3b91.png)
 ## 3. Chỉnh sửa file `bot.js` bằng [NotePad++](https://notepad-plus-plus.org/downloads/v7.0/)
 1. Thay đổi đường dẫn của thư mục game trên máy của bạn, mặc định là:
@@ -65,7 +73,7 @@
      node bot.js
      ```
 2. Cách 2: Chạy File .bat
-   - Tải file [Run_Bot.bat](Run_Bot.bat) cho vào thư mục `BOT Discord` và mở lên là BOT sẽ chạy
+   - Tải file [Run_Bot.bat](Run_Bot.bat) ([Cách tải file Github](#cách-tải-file-github)) cho vào thư mục `BOT Discord` và mở lên là BOT sẽ chạy
 ## 5. Cách sử dụng và Lưu Ý
 1. Cách sử dụng:
    - Dùng lệnh `!link` vào 1 kênh trong discord để BOT có thể chat được
@@ -81,7 +89,9 @@
 ![command](https://user-images.githubusercontent.com/57210639/128593662-644b1680-b5e8-4020-9d51-ddc509a7bc62.png)
 
 ## 📂Cách tải file Github
-   Chuột phải vào chữ Raw -> Lưu trang web thành -> Chọn nơi lưu -> Save 
+   Chuột phải vào Raw -> Lưu trang web thành -> Chọn nơi lưu -> Save 
+   ![image](https://user-images.githubusercontent.com/57210639/129554651-c22eb8d1-eee6-4746-9977-8c8b86f19077.png)
+
 
 ## 💡Mẹo 
 - Để có thể Rollback được nhiều hơn 5 lần (Phải đánh đổi nhiều dung lượng lưu trữ hơn) ta làm như sau:
