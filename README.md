@@ -8,10 +8,8 @@
 3. [Chỉnh sửa file `bot.js`](#3-chỉnh-sửa-file-botjs-bằng-notepad)
 4. [Chạy BOT](#4-chạy-bot)
 5. [Cách sử dụng và Lưu Ý](#5-cách-sử-dụng-và-lưu-ý)
-
-📂 [Cách tải file Github](#cách-tải-file-github)
-
-💡 [Mẹo](#mẹo)
+   📂[Cách tải file Github](#cách-tải-file-github)
+   💡[Mẹo](#mẹo)
 
 ## 1. Tạo BOT Discord
 - Truy cập [vào đây](https://discord.com/developers/applications) để tạo BOT
