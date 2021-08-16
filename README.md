@@ -39,7 +39,7 @@
   ```
 - Tải file [bot.js](bot.js) và cho vào thư mục `BOT Discord` ([Cách tải file Github](#cách-tải-file-github))
 - Sau khi cài đặt xong và copy file [bot.js](bot.js) sẽ được các mục sau: ![image](https://user-images.githubusercontent.com/57210639/128592187-aa41c923-115c-41d9-81e2-5ad5a1ff3b91.png)
-## 3. Chỉnh sửa file `bot.js` bằng [NotePad++](https://notepad-plus-plus.org/downloads/v7.0/)
+## 3. Chỉnh sửa file `bot.js` bằng [NotePad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.3/npp.8.1.3.Installer.exe.sig)
 1. Thay đổi đường dẫn của thư mục game trên máy của bạn, mặc định là:
    -  Host bằng game: 
       ```
