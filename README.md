@@ -37,8 +37,8 @@
   ```
   npm install moment
   ```
-- Tải file [bot.js](bot.js) và cho vào thư mục `BOT Discord` ([Cách tải file Github](#cách-tải-file-github))
-- Sau khi cài đặt xong và copy file [bot.js](bot.js) sẽ được các mục sau: ![image](https://user-images.githubusercontent.com/57210639/128592187-aa41c923-115c-41d9-81e2-5ad5a1ff3b91.png)
+- Tải file [bot.js](https://github.com/hominhtri135/DoNot-Starve-Together/releases/download/v1/bot.js) và cho vào thư mục `BOT Discord` ([Cách tải file Github](#cách-tải-file-github))
+- Sau khi cài đặt xong và copy file [bot.js](https://github.com/hominhtri135/DoNot-Starve-Together/releases/download/v1/Run_Bot.bat) sẽ được các mục sau: ![image](https://user-images.githubusercontent.com/57210639/128592187-aa41c923-115c-41d9-81e2-5ad5a1ff3b91.png)
 ## 3. Chỉnh sửa file `bot.js` bằng [NotePad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.3/npp.8.1.3.Installer.exe)
 1. Thay đổi đường dẫn của thư mục game trên máy của bạn, mặc định là:
    -  Host bằng game: 
