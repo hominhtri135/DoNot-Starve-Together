@@ -4,8 +4,8 @@ const client = new Client();
 let fs = require('fs');
 let moment = require('moment');
 
-let path = 'C:/Program Files (x86)/Steam/steamapps/common/Don\'t Starve Together Dedicated Server/data/out.json'; //thay đổi thư mục cài đặt game tại đây
-let path2 = 'C:/Program Files (x86)/Steam/steamapps/common/Don\'t Starve Together Dedicated Server/data/in.json'; //thay đổi thư mục cài đặt game tại đây
+let path = "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together Dedicated Server/data/out.json"; //thay đổi thư mục cài đặt game tại đây
+let path2 = "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together Dedicated Server/data/in.json"; //thay đổi thư mục cài đặt game tại đây
 
 let Prefix = ","
 let lastModified = 0;
