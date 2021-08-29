@@ -43,13 +43,13 @@
 1. Thay đổi đường dẫn của thư mục game trên máy của bạn, mặc định là:
    -  Host bằng game: 
       ```
-      let path = 'C:/Program Files (x86)/Steam/steamapps/common/Don\'t Starve Together/data/out.json'; //thay đổi thư mục cài đặt game tại đây
-      let path2 = 'C:/Program Files (x86)/Steam/steamapps/common/Don\'t Starve Together/data/in.json'; //thay đổi thư mục cài đặt game tại đây
+      let path = "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together/data/out.json"; //thay đổi thư mục cài đặt game tại đây
+      let path2 = "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together/data/in.json"; //thay đổi thư mục cài đặt game tại đây
       ```
    -  Host bằng [Dedicated](https://dont-starve-game.fandom.com/vi/wiki/Dedicated_server):
       ```
-      let path = 'C:/Program Files (x86)/Steam/steamapps/common/Don\'t Starve Together Dedicated Server/data/out.json'; //thay đổi thư mục cài đặt game tại đây
-      let path2 = 'C:/Program Files (x86)/Steam/steamapps/common/Don\'t Starve Together Dedicated Server/data/in.json'; //thay đổi thư mục cài đặt game tại đây
+      let path = "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together Dedicated Server/data/out.json"; //thay đổi thư mục cài đặt game tại đây
+      let path2 = "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together Dedicated Server/data/in.json"; //thay đổi thư mục cài đặt game tại đây
       ```
    ![image](https://user-images.githubusercontent.com/57210639/128593100-38da5a0e-7785-4d20-88ef-cc074f4ce1cc.png)
 2. Thay đổi `Your-User-ID` bằng ID Discord của bạn ([cách lấy User ID Discord](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)) ![image](https://user-images.githubusercontent.com/57210639/128592990-99f3f572-6068-43c2-9fea-556743656aff.png)
