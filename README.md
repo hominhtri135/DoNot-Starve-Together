@@ -1,7 +1,7 @@
-# Hướng dẫn sử dụng BOT Discord Thông Báo DST
+[Hướng dẫn tạo Server Dedicated bằng Script đơn giản và chi tiết!](https://discord.gg/m5f6v2NB8W)
 
-- [Cách tạo Server Dedicated bằng Script đơn giản](https://dont-starve-game.fandom.com/vi/wiki/Dedicated_server)
-- [MOD Thông Báo Discord](https://steamcommunity.com/sharedfiles/filedetails/?id=2537774396)
+# Hướng dẫn sử dụng BOT Discord Thông Báo DST
+⚠Hãy Sub [MOD Thông Báo Discord](https://steamcommunity.com/sharedfiles/filedetails/?id=2537774396) và kích hoạt MOD trong Game!
 
 1. [Tạo BOT Discord](#1-tạo-bot-discord)
 2. [Cài đặt Node.js và BOT](#2-cài-đặt-nodejs-và-bot)
