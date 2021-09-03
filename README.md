@@ -1,7 +1,7 @@
-[Hướng dẫn tạo Server Dedicated bằng Script đơn giản và chi tiết!](https://discord.gg/m5f6v2NB8W)
+[Hướng dẫn tạo Server Dedicated bằng Script đơn giản và chi tiết](https://discord.gg/m5f6v2NB8W)
 
 # Hướng dẫn sử dụng BOT Discord Thông Báo DST
-⚠Hãy Sub [MOD Thông Báo Discord](https://steamcommunity.com/sharedfiles/filedetails/?id=2537774396) và kích hoạt MOD trong Game!
+⚠Hãy đảm bảo rằng bạn đã Sub [MOD Thông Báo Discord](https://steamcommunity.com/sharedfiles/filedetails/?id=2537774396) và kích hoạt MOD trong Game!
 
 1. [Tạo BOT Discord](#1-tạo-bot-discord)
 2. [Cài đặt Node.js và BOT](#2-cài-đặt-nodejs-và-bot)
