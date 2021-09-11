@@ -11,20 +11,27 @@
 6. 📂[Cách tải file Github](#cách-tải-file-github)
 7. 💡[Mẹo](#mẹo)
 
-## 1. Tạo BOT Discord
-- Truy cập [vào đây](https://discord.com/developers/applications) để tạo BOT
-- Chọn `New Application` -> Điền Tên BOT -> `Create`
-- Vào phần `Bot` -> `Add Bot` -> `Yes, do it!`
-- Lưu lại token của BOT![image](https://user-images.githubusercontent.com/57210639/128592478-a39cce56-44d9-436a-8f44-5c8077a40c06.png)
-- Vào phần `OAuth2` -> Trong phần `SCOPES` chọn `bot` -> phần `BOT PERMISSIONS` chọn `Administrator` -> `Copy`![image](https://user-images.githubusercontent.com/57210639/128592633-258fa11e-b105-438e-bec8-5faebae5583d.png)
-- Truy cập vào link vừa Copy để thêm BOT vào Discord![image](https://user-images.githubusercontent.com/57210639/128592696-1b5e814e-b0f9-41d5-82d2-5d4624fc63ed.png)
+## 1. Cài đặt Don't Starve Together Dedicated Server
+- Vào `Thư Viện` trong Steam
+- Kích hoạt bộ lọc `Công Cụ`
+
+  ![1  thư viện](https://user-images.githubusercontent.com/57210639/132952897-fd9231a9-e97b-42d1-99f4-7ea74a72743b.png)
+- Tìm kiếm `Don't Starve Together Dedicated Server` và Cài Đặt
+  ![2  thư viện](https://user-images.githubusercontent.com/57210639/132952972-43e61c51-196f-4671-8de6-84586cf5cca8.png)
 
 
 
-## 2. Cài đặt Node.js và BOT
-- Truy cập [Nodejs.org](https://nodejs.org/en/) hoặc tải trực tiếp phiên bản [v14.17.5](https://nodejs.org/dist/v14.17.5/node-v14.17.5-x64.msi)
-  ![image](https://user-images.githubusercontent.com/57210639/129483862-ed6be962-367e-4c4d-a1c4-97bc8aaabfaa.png)
-- Cài đặt và Next theo mặc định
+
+## 2. Tải Script Và Cách Sử Dụng
+- Tải Script hỗ trợ tạo Server Dedicated: [tại đây](https://drive.google.com/u/2/uc?id=1RX-tXiFD0J1NAIkMlqxNVvf9jRtfOZyt&export=download)
+
+  ![image](https://user-images.githubusercontent.com/57210639/132953344-ef75dd0a-8660-413e-9a8a-13f2a6888a05.png)
+- Đặt Script ngoài màn hình chính (Desktop) đễ tiện sử dụng
+- Mở Script lên và thực hiện thực hiện theo các bước
+- Chọn thư mục `steamapps` nơi cài đặt `Don't Starve Together Dedicated Server` 
+  ![11](https://user-images.githubusercontent.com/57210639/132953557-f6bdf21f-f1ae-4c61-8801-308d0af5cc5e.png)
+  Nếu bạn không biết mình đã cài đặt `Don't Starve Together Dedicated Server` ở đâu thì làm như sau:
+  - Truy cập vào Thư Viện Steam như ở Bước 1
 - Tạo 1 thư mục bất kì, ở đây mình lấy tên là `BOT Discord`
 - Trên thanh địa chỉ của thư mục `BOT Discord`, gõ `cmd` và **Enter** hộp thoại cmd sẽ xuất hiện![image](https://user-images.githubusercontent.com/57210639/128591687-66ba0f58-0ee5-4fdc-af0c-2e6d47035102.png)![image](https://user-images.githubusercontent.com/57210639/128591731-5629d2f2-8eaf-4a38-ac23-58349e934ce0.png)
 - Nhập và chạy lần lượt các lệnh sau: 
