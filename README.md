@@ -8,7 +8,7 @@ Với Script này sẽ hỗ trợ bạn cài đặt Mod, chạy Server chỉ b�
 2. [Tải Script và các bước thiết lập](#2-tải-script-và-các-bước-thiết-lập)
 3. [Chạy Server Dedicated](#3-chạy-server-dedicated)
 4. [Các chức năng của Script](#4-các-chức-năng-của-script)
-5. 💡[Q&A](#5-qa)
+5. 💡 [Q&A](#5--qa)
 
 ## 1. Cài đặt Don't Starve Together Dedicated Server
 - Vào `Thư Viện` trong Steam
