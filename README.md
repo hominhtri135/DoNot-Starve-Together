@@ -1,6 +1,6 @@
-[Hướng dẫn sử dụng BOT Discord Thông Báo DST](https://discord.gg/m5f6v2NB8W)
+[Hướng dẫn sử dụng BOT Discord Thông Báo DST](https://github.com/hominhtri135/DoNot-Starve-Together/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng-BOT-Discord-Th%C3%B4ng-B%C3%A1o-DST)
 
-# Hướng dẫn tạo Server Dedicated 
+# Hướng dẫn tạo Server Dedicated bằng Script
 Với Script này sẽ hỗ trợ bạn cài đặt Mod, chạy Server chỉ bằng vài cú Click chuột, hỗ trợ chạy lại Server khi bị Crash, hỗ trợ SteamCMD, các bước thực hiện bạn đọc tiếp hướng dẫn nhé!
 
 **Mục Lục:**
