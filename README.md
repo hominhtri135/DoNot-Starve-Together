@@ -4,11 +4,11 @@
 Với Script này sẽ hỗ trợ bạn cài đặt Mod, chạy Server chỉ bằng vài cú Click chuột, hỗ trợ chạy lại Server khi bị Crash, hỗ trợ SteamCMD, các bước thực hiện bạn đọc tiếp hướng dẫn nhé!
 
 **Mục Lục:**
-1. [Cài đặt Don't Starve Together Dedicated Server](#1-tạo-bot-discord)
-2. [Tải Script và các bước thiết lập](#2-cài-đặt-nodejs-và-bot)
-3. [Chạy Server Dedicated](#3-chỉnh-sửa-file-botjs-bằng-notepad)
-4. [Các chức năng của Script](#4-chạy-bot)
-5. 💡[Q&A](#5-cách-sử-dụng-và-lưu-ý)
+1. [Cài đặt Don't Starve Together Dedicated Server](#1-cài-đặt-dont-starve-together-dedicated-server)
+2. [Tải Script và các bước thiết lập](#2-tải-script-và-các-bước-thiết-lập)
+3. [Chạy Server Dedicated](#3-chạy-server-dedicated)
+4. [Các chức năng của Script](#4-các-chức-năng-của-script)
+5. 💡[Q&A](#5-qa)
 
 ## 1. Cài đặt Don't Starve Together Dedicated Server
 - Vào `Thư Viện` trong Steam
@@ -33,6 +33,7 @@ Với Script này sẽ hỗ trợ bạn cài đặt Mod, chạy Server chỉ b�
    - Chọn vào biểu tượng Bánh Răng → Quản lý → Mở thư mục trên máy
      ![3](https://user-images.githubusercontent.com/57210639/132953651-56e05dfc-08d0-4336-800e-ce284cb8be98.png)
    - Tại đây sẽ xác định được đường dẫn thư mục `steamapps`
+
      ![4](https://user-images.githubusercontent.com/57210639/132953655-9e9b1597-f3ff-4e56-973c-b54a0644ebd9.png)
    
 2. Chọn thư mục chứa World đã tạo
@@ -43,6 +44,7 @@ Với Script này sẽ hỗ trợ bạn cài đặt Mod, chạy Server chỉ b�
    - Trong Game, tại mục tạo World → chọn vào icon 📂
      ![5](https://user-images.githubusercontent.com/57210639/132954223-5d22be01-8dc7-49ce-a2fe-b329240e1b39.png)
    - Tại đây sẽ xác định được đường dẫn thư mục chứa World bạn cần
+
      ![6](https://user-images.githubusercontent.com/57210639/132954252-c9b4ff41-61b5-46d4-ae2b-c95ee39749cd.png)
     
 3. Nhập `token` Server
@@ -72,6 +74,7 @@ Với Script này sẽ hỗ trợ bạn cài đặt Mod, chạy Server chỉ b�
 
 ## 3. Chạy Server Dedicated
 Sau khi hoàn thành xong các bước thiết lập, về sau khi mở Script sẽ hiển thị giao diện chính
+
 ![15](https://user-images.githubusercontent.com/57210639/132955127-62acf94c-4216-45be-838c-ea238f3176e3.png)
 
 ### Tại giao diện chính, nhập 1 và Enter để chạy Server
@@ -107,7 +110,7 @@ Vì vậy hãy tắt các cửa sổ Lock trước và đến các cửa sổ c�
       
       Chế độ Copy chỉ hỗ trợ khi `Don't Starve Together` và `Don't Starve Together Dedicated Server` cài đặt cùng 1 nơi, tức là cùng thư mục `steamapps`
    9. Khôi phục lại Script về trạng thái ban đầu 
-## 5. Q&A
+## 5. 💡 Q&A
 1. Làm thế nào để Thêm/Bớt MOD ?
    - Trong Game, tại mục tạo World
    - Thêm/Bớt MOD tuỳ ý
