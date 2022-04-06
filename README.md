@@ -1,4 +1,4 @@
-# [Discord hỗ trợ](https://dsc.gg/minhtri)
+# [Discord: Minh Trí](https://dsc.gg/minhtri)
 
 ***
 
